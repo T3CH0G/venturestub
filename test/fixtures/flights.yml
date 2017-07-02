@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  depart_date: 2017-07-02 09:48:07
+  return_date: 2017-07-02 09:48:07
+  depart_location: MyString
+  return_location: MyString
+  user_id: 1
+
+two:
+  code: MyString
+  depart_date: 2017-07-02 09:48:07
+  return_date: 2017-07-02 09:48:07
+  depart_location: MyString
+  return_location: MyString
+  user_id: 1
